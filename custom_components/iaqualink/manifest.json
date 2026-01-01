@@ -1,0 +1,13 @@
+{
+  "domain": "iaqualink",
+  "name": "Jandy iAqualink (ICL Support)",
+  "version": "0.7.0",
+  "codeowners": ["@flz", "@agrieco"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/iaqualink",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "loggers": ["iaqualink"],
+  "requirements": ["iaqualink @ git+https://github.com/agrieco/iaqualink-py.git@feature/icl-light-support", "h2==4.3.0"],
+  "single_config_entry": true
+}
