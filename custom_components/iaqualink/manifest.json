@@ -1,7 +1,7 @@
 {
   "domain": "iaqualink",
   "name": "Jandy iAqualink (ICL Support)",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "codeowners": ["@flz", "@agrieco"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/iaqualink",
